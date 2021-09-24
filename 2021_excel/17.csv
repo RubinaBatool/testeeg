@@ -1,0 +1,20 @@
+Gender,Age,File Start,Start time,End time,Channel names,Comment
+Female,83 years,11:07:51,12:11:26:995,12:11:27:990,Fp1-A1 Fp2-A2 F3-A1 F4-A2,delta slow waves
+,,,12:11:26:978,12:11:28:014,F7-A1 F8-A2,delta slow waves
+,,,12:11:26:986,12:11:28:006,Add_lead1,delta slow waves
+,,,12:11:29:503,12:11:30:679,Fp1-A1 Fp2-A2 F3-A1 F4-A2,delta slow waves
+,,,12:11:29:437,12:11:30:555,F7-A1 F8-A2,delta slow waves
+,,,12:11:29:708,12:11:31:008,Add_lead1,delta slow waves
+,,,11:12:02:480,11:12:03:582,Fp1-A1 Fp2-A2 F3-A1 F4-A2,delta slow waves
+,,,11:12:02:381,11:12:03:985,F7-A1 F8-A2,delta slow waves
+,,,12:13:24:993,12:13:25:893,Fp1-A1 Fp2-A2 F3-A1 F4-A2 C3-A1 C4-A2 P3-A1 P4-A2 O1-A1 O2-A2 F7-A1 F8-A2,delta slow waves
+,,,12:13:24:981,12:13:25:992,Add_lead1 Add_lead2,delta slow waves
+,,,12:13:49:035,12:13:50:268,Fp1-A1 Fp2-A2 F3-A1 F4-A2,delta slow waves
+,,,12:13:48:813,12:13:50:231,F7-A1 F8-A2,delta slow waves
+,,,12:13:48:467,12:13:50:133,Add_lead1,delta slow waves
+,,,12:14:42:559,12:14:43:533,Fp1-A1 Fp2-A2 F3-A1 F4-A2 C3-A1 C4-A2 P3-A1 P4-A2 O1-A1 O2-A2 F7-A1 F8-A2,delta slow waves
+,,,12:14:42:559,12:14:43:743,Add_lead1 Add_lead2 Add_lead3,delta slow waves
+,,,12:14:48:233,12:14:49:738,Fp1-A1 Fp2-A2 F3-A1 F4-A2,delta slow waves
+,,,12:14:48:319,12:14:49:948,F7-A1 F8-A2,delta slow waves
+,,,12:15:11:473,12:15:12:497,Fp1-A1 Fp2-A2 F3-A1 F4-A2,delta slow waves
+,,,12:15:11:449,12:15:12:633,F7-A1 F8-A2,delta slow waves
